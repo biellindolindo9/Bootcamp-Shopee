@@ -1,8 +1,8 @@
 ## 🧠 Sobre o projeto
 
-Este projeto foi desenvolvido durante a realização de um **bootcamp em parceria com a Shopee**, oferecido pela plataforma :contentReference[oaicite:0]{index=0}.
+Este projeto foi desenvolvido durante a realização de um **bootcamp em parceria com a Shopee**, oferecido pela plataforma DIO.
 
-A aplicação foi construída acompanhando as aulas e seguindo as metodologias propostas ao longo do bootcamp, que tem como foco o aprendizado prático por meio de **desafios, projetos reais e aplicação direta dos conceitos estudados**. :contentReference[oaicite:1]{index=1}
+A aplicação foi construída acompanhando as aulas e seguindo as metodologias propostas ao longo do bootcamp, que tem como foco o aprendizado prático por meio de **desafios, projetos reais e aplicação direta dos conceitos estudados**.
 
 O projeto utiliza tecnologias fundamentais do desenvolvimento web, como:
 - **HTML**
